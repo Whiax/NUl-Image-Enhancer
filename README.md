@@ -23,6 +23,8 @@ The algorithm tries multiple transformations on contrast / saturation / lighting
 python3 enhance_image.py examples/1.png --maxruntime=10
 ```
 
+- Available sd-webui extension: https://github.com/Whiax/sd-webui-nulienhance 
+
 ## Models
 
 - [Aesthetic predictor](https://github.com/christophschuhmann/improved-aesthetic-predictor): [github.com/christophschuhmann/improved-aesthetic-predictor](https://github.com/christophschuhmann/improved-aesthetic-predictor)
