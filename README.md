@@ -22,6 +22,7 @@ The algorithm tries multiple transformations on contrast / saturation / lighting
 ```bash
 python3 enhance_image.py examples/1.png --maxruntime=10
 ```
+or
 
 - Available sd-webui extension: https://github.com/Whiax/sd-webui-nulienhance 
 
