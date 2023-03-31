@@ -16,6 +16,7 @@ The algorithm tries multiple transformations on contrast / saturation / lighting
 
 - A GPU with > 2GB VRAM (very slow on CPU)
 - [CLIP](https://github.com/openai/CLIP)
+- Pytorch
 
 ## Usage
 
