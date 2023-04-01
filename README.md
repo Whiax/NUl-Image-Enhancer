@@ -4,6 +4,8 @@ The algorithm is simple, it does not always provide good results on already grea
 The default maximum runtime is 60 seconds / image. The algorithm can provide good results in 10 seconds on some images.  
 The algorithm tries multiple transformations on contrast / saturation / lighting etc., it evaluates the changes and keeps the best ones. 
 
+➡️ More details on the algorithm: [How I Built an AI Image Enhancer](https://medium.com/p/how-i-built-an-ai-image-enhancer-f7d77186678e) 
+
 ## Results
 <img src="examples/1.png" width="200" height="200"> <img src="examples/1b.png" width="200" height="200"> Enhanced ✔️
 
@@ -32,3 +34,6 @@ or
 - [Aesthetic predictor](https://github.com/christophschuhmann/improved-aesthetic-predictor): [github.com/christophschuhmann/improved-aesthetic-predictor](https://github.com/christophschuhmann/improved-aesthetic-predictor)
 - [CLIP](https://github.com/openai/CLIP): [github.com/openai/CLIP](https://github.com/openai/CLIP)
 
+#
+
+⭐ If you like it! Thanks!
